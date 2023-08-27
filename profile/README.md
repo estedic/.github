@@ -10,10 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-Estedic is a quality data and AI consultancy based in Amsterdam, founded in 2021. Our mission is to empower organizations to realize return on their data by providing expert data strategy and management, predictive analytics, generative AI, personalization, AI-driven process automation, and enhanced insights solutions.
+Estedic is a quality data and AI consultancy based in Amsterdam, founded in 2021. Our mission is to empower data and AI solutions by delivering value added services to clients both locally and internationally. In doing so, we help organizations realize return on data.
 
-We deliver bespoke services to a broad spectrum of clients, including banking and insurance companies, manufacturing and logistics firms, government institutions, healthcare organizations, retail and FMCG industry, energy sector, telecom industry, and small to medium enterprises.
+As a registered Consulting and System Integration partner for both Databricks and Snowflake, Estedic brings unmatched expertise and value to your data and AI initiatives. Our certified professionals can help you capitalize on their unique strengths while mitigating any challenges. Estedic's core services encompass data governance and best practices, unified analytics, feature stores and MLOPS and customized data and AI use cases.
 
-Our team of experienced professionals, along with a curated network of partner companies, ensures the highest quality of service and a technology stack agnostic approach. We prioritize data privacy and security, complying with all pertinent legislation.
+Our cloud stack agnostic approach ensures unbiased solutions, while our expertise as registered partner adds an extra layer of excellence to your data and AI journey.
 
-At Estedic, we follow an agile approach, tailoring our process to each client's unique needs. Our passion for data and AI is evident in the results we achieve for our clients, driving their success and growth and realizing return on their data.
+Experienced professionals, along with a curated network of partner companies, ensure the highest quality of service. We prioritize data privacy and security, complying with all pertinent legislation.
+
+At Estedic, we embrace service design and agile principles, tailoring our process to each client's unique needs. Our passion for data and AI is evident in the results we achieve for our clients, driving their success and growth and realizing return on their data. 
